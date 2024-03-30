@@ -1,7 +1,7 @@
 {
-  "name": "calculator_rehana1",
+  "name": "calculator_rehana_final",
   "type": "module",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "bin": "./index.js",
